@@ -37,5 +37,5 @@ spec:
   ports:
     - port: 3000
       targetPort: 3000
-  type: NodePort  # or LoadBalancer if using cloud
+  type: NodePort
 
